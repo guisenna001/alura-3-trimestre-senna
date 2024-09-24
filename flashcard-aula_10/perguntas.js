@@ -21,3 +21,16 @@ criaCartao(
     'Como se escreve "Ela mora sozinha" em Inglês?',
     'Ela mora sozinha é "She lives alone"'
 )
+
+criaCarta(
+    'Matemática',
+    'Qual é a raiz quadrada de 25?',
+    'Raiz quadrada de 25 é: 5',
+    )
+criaCarta(
+    'Português',
+    'O que é Conto?',
+'É uma narrativa curta que, em geral, apresenta apenas um conflito',
+    )
+    
+    
